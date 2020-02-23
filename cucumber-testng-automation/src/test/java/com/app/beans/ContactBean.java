@@ -56,6 +56,7 @@ public class ContactBean {
 		this.email = email;
 		//test
 		//test
+		//test4
 	}
 
 }
