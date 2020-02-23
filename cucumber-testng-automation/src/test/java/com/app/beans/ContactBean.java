@@ -55,6 +55,7 @@ public class ContactBean {
 	public void setEmail(String email) {
 		this.email = email;
 		//test
+		//test
 	}
 
 }
